@@ -30,6 +30,8 @@ My Scripts: I have a few small scripts in ~/.local/bin (or ~/bin) that help me d
 
 Bash Config: Just my personal .bashrc file, set up how I like it.
 
+______________________________________________________________________________________________________________________________________________________________________
+
 📦 What You'll Need (Dependencies)
 If you want to try out my setup on Arch Linux, here are the main programs you'll need to install first. I've tried to list everything I'm using:
 
@@ -99,6 +101,8 @@ SUPER + F: Make a window go fullscreen
 
 Fn Keys: Control volume and screen brightness
 
+______________________________________________________________________________________________________________________________________________________________________
+
 ⚙️ Making It Your Own
 Feel free to change things up! This is just my starting point, and you can tweak it to your liking:
 
@@ -107,6 +111,8 @@ Colors: Most of the reddish/cyberpunk colors are set in ~/.config/waybar/style.c
 Fonts: The fonts also help with the techno feel. Look in ~/.config/waybar/style.css and ~/.config/kitty/kitty.conf to change them.
 
 Wallpapers: My setup uses hyprpaper. You can put your own wallpapers in ~/.config/Pictures/Wallpapers/ and then update ~/.config/hypr/hyprpaper.conf to use them.
+
+______________________________________________________________________________________________________________________________________________________________________
 
 🤝 Thanks
 I'm very new to this, and I've learned a lot from the Hyprland community and wiki. Big thanks to everyone who shares their knowledge!
