@@ -5,6 +5,8 @@ I've tried to make it look clean while keeping things easy to use for daily task
 
 CAUTION: I HAVE NOT MADE THIS BUG PROOF, I WILL NOT BE UPDATING THIS CUZ I DONT HAVE THE TIME. IF YOU WANNA INSTALL, BUT DO NOT KNOW TROUBLESHOOTING AND PROBLEMSOLVING WITH THIS, DO NOT INSTALL. RESIST YOUR URGES
 
+______________________________________________________________________________________________________________________________________________________________________
+
 ✨ What I've Included
 I've tried to put together a set of tools that work well together and fit the theme I'm going for:
 
